@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hi, I’m a Senior Android Developer
 
-<!--
-**Pranjal9825/Pranjal9825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📱 Senior Android Developer at KiarX, building scalable and reliable Android applications used in mission-critical production systems. Experienced in real-time data processing, performance optimization, and clean mobile architecture.
 
-Here are some ideas to get you started:
+🚀 Experience Highlights
+• Owned and maintained 2 mission-critical Android apps handling complex business logic and live data  
+• Built real-time and camera-intensive features (walkie-talkie, video calls, live CCTV, 24/7 recording) using Firebase & WebRTC  
+• Refactored legacy single-Activity apps into modular, maintainable architectures  
+• Implemented on-device AI using ML Kit & TensorFlow Lite  
+• Published 8+ Android apps on the Play Store (6 built from scratch)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Skills
+• Programming: Core Java, Kotlin  
+• Android: Android SDK, Firebase, ML Kit, TensorFlow Lite  
+• Backend: PHP, MySQL, REST APIs (OkHttp)  
+• Version Control: Git, GitHub, Bitbucket  
+• Tools: Android Studio, Postman, VS Code  
+• Focus: Performance, stability, memory management, scalability
